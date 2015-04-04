@@ -1,6 +1,10 @@
 # random-figures
 
+[![Build Status](https://travis-ci.org/cmc-haskell-2015/random-figures.svg?branch=master)](https://travis-ci.org/cmc-haskell-2015/random-figures)
+
 Генерация случайных фигур.
+
+![Screenshot.](images/screenshot.png)
 
 ## Установка и запуск
 
