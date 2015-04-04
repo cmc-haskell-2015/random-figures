@@ -100,7 +100,7 @@ main = do
   where
     windowSize   = (640, 480)
     windowOffset = (200, 200)
-    display = InWindow "Random distribution" windowSize windowOffset
+    display = InWindow "Random figures" windowSize windowOffset
     bgColor = white
     fps = 60
     seed = Gen 31337
